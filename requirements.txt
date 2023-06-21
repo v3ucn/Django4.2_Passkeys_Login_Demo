@@ -1,0 +1,10 @@
+cffi==1.15.1
+cryptography==38.0.1
+Django==4.2
+django-sslserver
+fido2==1.1.1
+pycparser==2.21
+pytz==2022.5
+sqlparse==0.4.3
+django-passkeys
+
